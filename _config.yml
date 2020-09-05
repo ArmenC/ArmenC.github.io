@@ -28,12 +28,8 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-<<<<<<< HEAD
 # Converted minima to regular theme to edit.
 # theme: minima
-=======
-theme: jekyll-theme-midnight
->>>>>>> 6045d8bb4691fdde3f4c7914a0b3d3efff5ac98a
 plugins:
   - jekyll-feed
 
