@@ -7,7 +7,9 @@ categories: jekyll update
 
 In this blog post I will be talking about Hyper-V, specifically for server usage.
 
+
 <img src="https://s25966.pcdn.co/hyper-v/wp-content/uploads/2019/06/Hyper-V.jpg">
+
 
 So what is Hyper-V?
 
@@ -18,7 +20,9 @@ So what is Hyper-V?
     supports any OS to be virtualized, including Linux(Ubuntu,Redhat,CentOS, etc.),
     FreeBSD, and of course Windows.
 
+
 <img src="https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/media/hypervnesting.png">
+
 
 <bold>Why should you use Hyper-V?</bold>
 
@@ -32,6 +36,7 @@ So what is Hyper-V?
     which will run every one of the other servers in a Virtual environment. This way,
     managing them is a lot easier and you can increase resources whenever is needed
     rather than setting a fixed amount. 
+
 
 Next week I will be writing about how to Install Hyper-V and host your first virtual server.
 
