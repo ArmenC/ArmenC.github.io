@@ -14,7 +14,7 @@ In this blog post I will be talking about Hyper-V, specifically for server usage
 So what is Hyper-V?
 
     Hyper-V is Microsoft's version of a virtual machine host. In Hyper-V you can have
-    hardware virtualization which means you can create hard drives, viretual switches,
+    hardware virtualization which means you can create hard drives, virtual switches,
     and more. It comes with Windows Server 2019 Standard or Datacenter edition, with 
     Standard version allowing  you to host 2 VMs and Datacenter unlimited. Hyper-V 
     supports any OS to be virtualized, including Linux(Ubuntu,Redhat,CentOS, etc.),
