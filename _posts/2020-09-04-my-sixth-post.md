@@ -38,5 +38,5 @@ So what is Hyper-V?
     rather than setting a fixed amount. 
 
 
-Next week I will be writing about how to Install Hyper-V and host your first virtual server.
+Next week I will be writing about how to Install Hyper-V.
 
