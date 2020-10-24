@@ -55,7 +55,7 @@ Select "Processor" on the left side. Input the number of processor you want on y
 
 Back in the main screen, right click on the VM you just created and click connect.
 
-<img src="https://i.imgur.com/8Xt0UXV.png">
+<img src="https://i.imgur.com/TQgGuGr.png">
 
 After a second of loading, select "Start" to boot up your pc.
 
