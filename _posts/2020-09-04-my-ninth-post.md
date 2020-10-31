@@ -5,7 +5,6 @@ date:   2020-10-29 17:20:01 -0700
 categories: jekyll update
 ---
 
-<h1>Active Directoy</h1>
 
 <img src="https://www.secsign.com/wp-content/uploads/2018/02/active-directory-logo.png">
 
