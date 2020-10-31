@@ -7,7 +7,7 @@ categories: jekyll update
 
 <h1>Active Directoy</h1>
 
-<img>https://www.secsign.com/wp-content/uploads/2018/02/active-directory-logo.png</img>
+<img src=https://www.secsign.com/wp-content/uploads/2018/02/active-directory-logo.png>
 
 <h2> What is Active Directory?</h2>
 
@@ -17,7 +17,7 @@ Active Directory is a service that comes with Windows Server. It is used to mana
 
 Active Directory is set up using domains, trees, forests, and objects. Objects can range anywhere from users to devices. The users are then organized in Organizational Units. A domain is a collection of objects that include users and devices that belong in a group. For example, you may put all users from a level at a company in one domain. A tree is a group of domains that trust one another and they could authenticate each other. A forest is a group of trees, and a forest is usually used on very big companies.
 
-<img>https://www.pcwdld.com/wp-content/uploads/Active-Directory-Structure-1024x764.jpg<\img>
+<img src=https://www.pcwdld.com/wp-content/uploads/Active-Directory-Structure-1024x764.jpg>
 
 <h2>What services does Active Directory have?</h2>
 
@@ -27,7 +27,7 @@ Active Directory is set up using domains, trees, forests, and objects. Objects c
 - Directory Federation Services: This service provides a SSN(Single-sign-on) to authenticate user in different web applications in one sesssion. 
 - Rights Management: This service protects all the copyrighted information by preventing unathorized use and distribution of content.
 
-<img>https://www.pcwdld.com/wp-content/uploads/Active-Directory-Central-Management-1024x505.jpg</img>
+<img src=https://www.pcwdld.com/wp-content/uploads/Active-Directory-Central-Management-1024x505.jpg>
 
 <h2>Why should you use Active Directory?</h2>
 
