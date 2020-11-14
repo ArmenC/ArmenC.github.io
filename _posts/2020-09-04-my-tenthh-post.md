@@ -51,7 +51,7 @@ Lets get started on creating objects in Active Directory.
 
 11) Select "Ok" after making sure the name is entered correctly. Select "Ok" again to close out the user. If we check the "Accounting" group, we will see that John Welsh is in it.
 
-<img src="https://imgur.com/a/9tb0yjq">
+<img src="https://i.imgur.com/hQ9fOhW.png">
 
 We have learned how to create users and groups in Active Directory and how to add users in those groups. The reason you create groups is to set permissions on them and choose what programs to install. 
 We control these using Group Policy Management. This is another service by Microsoft and I will show you how to install it next week.
