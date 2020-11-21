@@ -63,7 +63,7 @@ Let's create a simple Group Policy Object and add it to the general users.
 
 14) Make sure you change the permissions to the selected one in the picture, and click OK.
 
-<img src="https://imgur.com/a/gjAXdIf">
+<img src="https://i.imgur.com/h9NAYmt.png">
 
 
 Once this has finished you have created a new Group Policy Object and assigned it to the Accounting group. From now on any user/computer that is assigned to that group will have their computer/laptop go to sleep mode in 30 minutes, and also have a Downloads folder shortcut.
