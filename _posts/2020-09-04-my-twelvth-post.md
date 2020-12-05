@@ -21,7 +21,7 @@ Let's say your office just got a new printer and you would like to install it on
 
 <img src="https://i.imgur.com/JZXR8ox.png">
 
-4) Let's select t second opton to add a TCP/IP and then click next.
+4) Let's select a second opton to add a TCP/IP and then click next.
 
 <img src="https://i.imgur.com/FUFHexF.png">
 
